@@ -1,0 +1,6 @@
+train: C:\Users\Carlos Ruano\Downloads\VC_P4\TGC_RBNW\train\images
+val: C:\Users\Carlos Ruano\Downloads\VC_P4\TGC_RBNW\val\images
+test: C:\Users\Carlos Ruano\Downloads\VC_P4\TGC_RBNW\test\images
+nc: 1
+names:
+- matricula
