@@ -358,18 +358,22 @@ proyecto/
     └── ...
 ```
 #### Ejemplos de salida
-<img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/287bff85-4236-47c1-b8ca-306dbd075d22" />
-<img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/fc3ce242-54c5-47f6-a750-82e92c33a55b" />
+<img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/ff03377b-b4ff-46cc-8f38-73f9b6db902f" />
+<img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/0d8e7677-0117-4ba5-bc21-812ba9dab61b" />
+
+
 
 ### Video
 
 [![Ver video en YouTube](https://img.youtube.com/vi/RArtErWv0_I/hqdefault.jpg)](https://youtu.be/RArtErWv0_I)
 
 ### Comparación Visual de OCRs
+<img width="842" height="471" alt="imagen" src="https://github.com/user-attachments/assets/55dcf416-f4d3-4092-852d-bbda6378a49c" />
+<img width="686" height="451" alt="imagen" src="https://github.com/user-attachments/assets/76af681e-0636-438c-9bff-c2ee66349eee" />
+<img width="540" height="451" alt="imagen" src="https://github.com/user-attachments/assets/67bdd030-1814-4b31-9640-f3412d42eefc" />
 
-<img width="854" height="473" alt="image" src="https://github.com/user-attachments/assets/01ca871f-f2c1-439e-b7f2-4488751b5001" />
-<img width="701" height="451" alt="image" src="https://github.com/user-attachments/assets/32282887-3282-46f5-a11f-feec74d0b015" />
-<img width="541" height="449" alt="image" src="https://github.com/user-attachments/assets/f47be625-e727-4bf3-8452-27ccd0f50c7c" />
+
+
 
 
 
