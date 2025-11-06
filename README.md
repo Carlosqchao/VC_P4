@@ -361,6 +361,19 @@ proyecto/
 <img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/287bff85-4236-47c1-b8ca-306dbd075d22" />
 <img width="366" height="504" alt="imagen" src="https://github.com/user-attachments/assets/fc3ce242-54c5-47f6-a750-82e92c33a55b" />
 
+### Video
+
+[![Ver video en YouTube](https://img.youtube.com/vi/RArtErWv0_I/hqdefault.jpg)](https://youtu.be/RArtErWv0_I)
+
+### Comparación Visual de OCRs
+
+<img width="850" height="471" alt="imagen" src="https://github.com/user-attachments/assets/5d5b3e32-4987-4282-ac06-bb49a0701e33" />
+<img width="540" height="451" alt="imagen" src="https://github.com/user-attachments/assets/66e1f9c4-c12f-47f4-a4d1-fccad72b1b25" />
+<img width="540" height="451" alt="imagen" src="https://github.com/user-attachments/assets/02e94bdc-454b-4618-8ad4-b3ca01437a13" />
+
+
+
+
 
 ## Referencias
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
