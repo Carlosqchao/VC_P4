@@ -367,10 +367,9 @@ proyecto/
 
 ### Comparación Visual de OCRs
 
-<img width="850" height="471" alt="imagen" src="https://github.com/user-attachments/assets/5d5b3e32-4987-4282-ac06-bb49a0701e33" />
-<img width="540" height="451" alt="imagen" src="https://github.com/user-attachments/assets/66e1f9c4-c12f-47f4-a4d1-fccad72b1b25" />
-<img width="540" height="451" alt="imagen" src="https://github.com/user-attachments/assets/02e94bdc-454b-4618-8ad4-b3ca01437a13" />
-
+<img width="854" height="473" alt="image" src="https://github.com/user-attachments/assets/01ca871f-f2c1-439e-b7f2-4488751b5001" />
+<img width="701" height="451" alt="image" src="https://github.com/user-attachments/assets/32282887-3282-46f5-a11f-feec74d0b015" />
+<img width="541" height="449" alt="image" src="https://github.com/user-attachments/assets/f47be625-e727-4bf3-8452-27ccd0f50c7c" />
 
 
 
