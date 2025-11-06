@@ -1,0 +1,6 @@
+train: "C:\\Users\\Carlos Ruano\\Downloads\\VC_P4\\TGC_RBNW\\train\\images"
+val: "C:\\Users\\Carlos Ruano\\Downloads\\VC_P4\\TGC_RBNW\\val\\images"
+
+# Clases del dataset
+nc: 1  # número de clases
+names: ['matricula']
