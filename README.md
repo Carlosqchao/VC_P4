@@ -68,7 +68,12 @@ names: ['matricula']
 #### 4. Validación y resultados
 - Se evalúa el modelo con el conjunto de validación
 - Se muestran ejemplos de detecciones, donde las matrículas se enmarcan con rectángulos
-- Ejemplo de detección y vídeo: [Ver ejemplo en YouTube]
+
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/2fb58b9a-885d-4463-ac63-bbf352c9ff79" />
+
+![val_batch1_labels](https://github.com/user-attachments/assets/23f6b556-bf87-4fc0-aa5e-0ed0b5b5ca0a)
+
+
 
 ---
 
