@@ -73,6 +73,36 @@ names: ['matricula']
 
 ![val_batch1_labels](https://github.com/user-attachments/assets/23f6b556-bf87-4fc0-aa5e-0ed0b5b5ca0a)
 
+Resultados del entrenamiento del modelo YOLO
+
+A continuación se muestra la evolución de las métricas obtenidas durante el entrenamiento del modelo de detección de matrículas (results.jpg):
+
+Resumen general
+
+El modelo presenta un comportamiento muy estable y con excelente capacidad de generalización.
+Las curvas de entrenamiento y validación mantienen una tendencia coherente, sin signos de sobreajuste.
+
+Pérdidas de entrenamiento
+
+Box Loss: disminuye progresivamente desde aproximadamente 1.6 hasta 0.8, indicando que el modelo aprende a ajustar correctamente las cajas de detección alrededor de las matrículas.
+
+Class Loss: desciende rápidamente durante las primeras épocas y se estabiliza alrededor de 0.5, reflejando una correcta clasificación (solo existe una clase: matrícula).
+
+DFL Loss: se reduce de forma constante (de ~1.3 a ~0.9), mejorando la precisión de los bordes de las cajas.
+
+Pérdidas de validación
+
+Val Box/Cls/DFL Loss: todas las pérdidas de validación descienden al inicio y se estabilizan sin incrementarse posteriormente, lo que demuestra una buena generalización y ausencia de sobreentrenamiento.
+
+Métricas de rendimiento
+
+Precisión (Precision): alcanza valores cercanos a 0.9, reflejando una baja tasa de falsos positivos.
+
+Exhaustividad (Recall): llega aproximadamente a 0.85, lo que indica que el modelo detecta la mayoría de las matrículas presentes.
+
+mAP@0.5: superior a 0.9, mostrando una excelente capacidad de detección con un umbral IoU moderado.
+
+mAP@0.5–0.95: alrededor de 0.5, evidenciando un buen desempeño incluso bajo criterios de evaluación más exigentes.
 
 
 ---
